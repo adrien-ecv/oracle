@@ -1,0 +1,23 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: comic sans ms, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #99ff66;
+}
+
+[name="footer"] {
+  font-style: italic;
+  font-size: 5px;
+  color: #0000ff;
+}
+
+[name="bouttonfou"] {
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
